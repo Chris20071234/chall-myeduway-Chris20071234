@@ -108,6 +108,7 @@
     }
     h1{
         box-shadow: 6px 6px 15px rgba(0, 0, 255, 0.288);
+        background-color: rgba(128, 128, 128, 0.144);
        
     }
     footer nav ul li a{
@@ -131,7 +132,7 @@
     }
     section{
       font-style: italic;
-    }
+    } 
     .ma-classe{
     
       color: rgba(128, 128, 128, 0.932);
@@ -141,6 +142,10 @@
         color: aqua;
     }
      h1 , p {
-      color: rgba(0, 0, 255, 0.822);
+      color: rgba(0, 0, 0, 0.938);
      
+     }
+     footer div{
+         margin-bottom: 30px;
+
      }
