@@ -1,0 +1,146 @@
+*{
+    background-color: rgba(240, 255, 255, 0.767);
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+    
+    
+    header{
+     display: flex;
+     margin: 20px;
+    }
+    header nav {
+      margin-left: 16cm;
+      margin-top: 6px;
+    }
+    header nav ul{
+      display: flex;
+    }
+    header nav ul li{
+    list-style: none;
+    margin-right: 27px;
+    }
+    header nav ul li a{
+       font-weight: bold;
+       text-decoration: none;
+       color: rgba(0, 0, 255, 0.863);
+    }
+    header button a{
+      font-weight: bold;
+      text-decoration: black;
+      color: azure;
+    }
+    footer{
+      display: flex;
+    margin: 20px;
+    }
+    footer nav{
+    margin-right: 12cm;
+      margin-top: 6px;
+    
+    }
+    footer nav ul{
+      list-style: none;
+     display: flex;
+     margin-right: 20px;
+    
+    }
+    footer nav ul li{
+    margin-right: 4cm;
+    display: flex;
+    }
+    footer nav ul li{
+      font-size: small;
+      font-weight: bold;
+      font-family: Arial, Helvetica, sans-serif;
+      color: black;
+    }
+
+    footer nav ul li a:active{
+      color: black;
+    }
+    
+    section {
+       margin-left: 20px;
+       list-style: none;
+      
+    
+    }
+    .ma-classe{
+      color: rgba(255, 235, 205, 0.87);
+    }
+      section img{
+    
+        margin-bottom: 20px;
+      }
+      section p{
+    
+        margin-top: 25px;
+      }
+    
+    body{
+      background-color: rgba(240, 255, 255, 0.596);
+    }
+    header section footer{
+      background-color: rgba(255, 228, 196, 0.911);
+    }
+    h1{
+        color: rgb(0, 0, 0);
+    }
+    h2{
+       color: rgba(0, 0, 255, 0.288)
+    }
+    p .ma-classe{
+      color: rgba(0, 0, 255, 0.904);
+    }
+    header nav ul li a{
+      text-decoration: underline;
+      font-size: larger;
+      font-style: italic;
+    
+    }
+    header nav ul li a:focus{
+      color: rgba(0, 0, 0, 0.904);
+    
+    }
+    h1{
+        box-shadow: 6px 6px 15px rgba(0, 0, 255, 0.288);
+       
+    }
+    footer nav ul li a{
+      text-decoration: dashed;
+      font-size: medium;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-style: italic;
+     color: rgba(0, 0, 255, 0.671);
+    
+    }
+    footer nav ul li a:hover{
+    
+      color: blue;
+    }
+    h1 + p {
+      color: antiquewhite;
+    }
+    section nav ul li a:focus{
+      
+      color: rgba(255, 235, 205, 0.904);
+    }
+    section{
+      font-style: italic;
+    }
+    .ma-classe{
+    
+      color: rgba(128, 128, 128, 0.932);
+    }
+    section a button:focus{
+    
+        color: aqua;
+    }
+     h1 , p {
+      color: rgba(0, 0, 255, 0.822);
+     
+     }
